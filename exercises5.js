@@ -14,4 +14,7 @@ function ubahHuruf(kata) {
 }
 
 console.log(ubahHuruf('wow'));
-
+console.log(ubahHuruf('developer')); 
+console.log(ubahHuruf('javascript')); 
+console.log(ubahHuruf('keren'));
+console.log(ubahHuruf('semangat'));
